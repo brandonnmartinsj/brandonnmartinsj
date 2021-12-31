@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bom Pastor**
 
-- 🌱 I’m currently learning **Java and PHP**
+- 🌱 I’m currently learning **Java and Spring boot**
 
 - 📫 How to reach me **brandon@unesc.net**
 
